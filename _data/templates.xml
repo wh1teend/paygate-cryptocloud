@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="admin" title="payment_profile_wh1CryptoCloud" version_id="1000070" version_string="1.0.0"><![CDATA[
+
+  <xf:textboxrow name="options[shop_id]" value="{$profile.options.shop_id}"
+      label="{{ phrase('wh1_pg_cryptocloud_shop_id') }}"
+      hint="{{ phrase('required') }}">
+  </xf:textboxrow>
+
+  <xf:passwordboxrow name="options[secret_key]" value="{$profile.options.secret_key}" type="password"
+      label="{{ phrase('wh1_pg_cryptocloud_secret_key') }}"
+      hint="{{ phrase('required') }}">
+  </xf:passwordboxrow>
+
+  <xf:passwordboxrow name="options[api_key]" value="{$profile.options.api_key}" type="password"
+      label="{{ phrase('wh1_pg_cryptocloud_api_key') }}"
+      hint="{{ phrase('required') }}">
+  </xf:passwordboxrow>
+  
+]]></template>
+</templates>

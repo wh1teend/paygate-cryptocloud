@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="wh1_pg_cryptocloud_api_key" version_id="1000070" version_string="1.0.0"><![CDATA[Api Key]]></phrase>
+  <phrase title="wh1_pg_cryptocloud_secret_key" version_id="1000070" version_string="1.0.0"><![CDATA[Secret key]]></phrase>
+  <phrase title="wh1_pg_cryptocloud_shop_id" version_id="1000070" version_string="1.0.0"><![CDATA[Shop id]]></phrase>
+  <phrase title="wh1_pg_cryptocloud_you_must_provide_all_data" version_id="1000070" version_string="1.0.0"><![CDATA[You must provide all data!]]></phrase>
+</phrases>
